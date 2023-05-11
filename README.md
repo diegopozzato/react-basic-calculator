@@ -1,6 +1,9 @@
 # React Basic Calculator
 
--A basic calculator with theme switcher built with React
+A basic calculator with theme switcher built with React
+
+- npm i styled-components
+- npm i mathjs
 
 #### Dark🌙 / Light🔆
 
