@@ -1,0 +1,9 @@
+body{
+  transition: 0.5s;
+}
+
+a{
+  text-decoration: none;
+  margin-left: 100px;
+}
+
