@@ -2,8 +2,12 @@
 
 A basic calculator with theme switcher built with React
 
-- npm i styled-components
-- npm i mathjs
+```bash
+npm i styled-components
+```
+```bash
+npm i mathjs
+```
 
 #### Dark🌙 / Light🔆
 
